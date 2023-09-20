@@ -1,0 +1,14 @@
+/* Navbar.css */
+.nav {
+    background-color: #1a202c;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+}
+
+.heading {
+    color: #ffffff;
+    font-size: 1.5rem;
+}

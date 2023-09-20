@@ -1,0 +1,19 @@
+/* Logout.css */
+
+button {
+    background-color: white;
+    /* White background color */
+    color: black;
+    /* Black text color */
+    padding: 0.5rem 1rem;
+    /* Padding */
+    border: 2px solid #ccc;
+    /* 2px border with gray color */
+    transition: background-color 0.3s ease;
+    /* Smooth transition for background color on hover */
+}
+
+button:hover {
+    background-color: #f0f0f0;
+    /* Light gray background color on hover */
+}

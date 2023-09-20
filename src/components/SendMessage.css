@@ -1,0 +1,40 @@
+/* SendMessage.css */
+
+.formDesign {
+    height: 3.5rem;
+    /* h-14 equivalent */
+    width: 100%;
+    /* w-full equivalent */
+    max-width: 728px;
+    /* max-w-[728px] equivalent */
+    display: flex;
+    font-size: 1.25rem;
+    /* text-xl equivalent */
+    position: absolute;
+    bottom: 0;
+
+}
+
+.inputDesign {
+    
+    width: 100%;
+    /* w-full equivalent */
+    font-size: 1.25rem;
+    /* text-xl equivalent */
+    padding: 0.75rem;
+    /* p-3 equivalent */
+    background-color: #1a202c;
+    /* bg-gray-900 equivalent */
+    color: #ffffff;
+    /* text-white equivalent */
+    outline: none;
+    border: none;
+    /* border-none equivalent */
+}
+
+.buttonDesign {
+    width: 20%;
+    /* w-[20%] equivalent */
+    background-color: #48bb78;
+    /* bg-green-500 equivalent */
+}
